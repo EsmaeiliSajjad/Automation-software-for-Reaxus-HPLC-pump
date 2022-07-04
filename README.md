@@ -25,7 +25,7 @@ LabView computer coding software is used here to write suitable code for pump co
 <img src="https://user-images.githubusercontent.com/108043716/177029063-94d9abe3-f0cf-40d3-a0e6-abc7f6dd3895.png" width="900" />
 Fig. 2: LabView code for the automation software including control, monitor, and store data in formatted data file. 
 
-In order to read and convert digital data to meaningful values, you should be familiar with buffer read and write concepts. In addition to this, the proper command should be specified to be sent to the instrument. Some of these commends do not return any value; however, additional string functions should be added to the code to properly encode the return buffer.
+In order to read and convert digital data to meaningful values, you should be familiar with buffer read and write concepts. In addition to this, the proper command should be specified to be sent to the instrument. Some of these commands do not return any value; however, additional string functions should be added to the code to properly encode the return buffer.
 <a name="3"></a>
 # Upgrades
 This software can be upgraded for other applications.
