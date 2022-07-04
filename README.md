@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/108043716/177029159-69982be7-d1bb-4e46
 Fig. 1: Testing developed software for automation of HPLC Pump.
 <a name="2"></a>
 # LabView Code
-LabView computer coding software is used here to write the suitable code for pump control. Since the instrument is connected via USB to the computer, there is no need for furthur configuration to define the pump. The following figure shows a part of the developed code.
+LabView computer coding software is used here to write suitable code for pump control. Since the instrument is connected via USB to the computer, there is no need for further configuration to define the pump. The following figure shows a part of the developed code.
 
 <img src="https://user-images.githubusercontent.com/108043716/177029063-94d9abe3-f0cf-40d3-a0e6-abc7f6dd3895.png" width="900" />
 Fig. 2: LabView code for the automation software including control, monitor, and store data in formatted data file. 
